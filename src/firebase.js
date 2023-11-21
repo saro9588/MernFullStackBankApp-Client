@@ -8,12 +8,12 @@ import { getAuth, signOut, onAuthStateChanged } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyACGvQU_Lts28EZhNUxDbLW_WXJEaplk0c",
-  authDomain: "full-stack-bank-app-81bf9.firebaseapp.com",
-  projectId: "full-stack-bank-app-81bf9",
-  storageBucket: "full-stack-bank-app-81bf9.appspot.com",
-  messagingSenderId: "16913942311",
-  appId: "1:16913942311:web:0b79faec1a1796aa1b4b02"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
